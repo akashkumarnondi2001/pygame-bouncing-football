@@ -8,8 +8,8 @@ A lightweight 2D Python animation built with Pygame featuring a spinning footbal
 
 ## How to Run
 1. Clone this repository or download the files.
-2. Make sure `background.png` and `football.png` are in the same directory as `football_game.py`.
+2. Make sure `background.png` and `football.png` are in the same directory as `bouncing_football.py`.
 3. Run the script:
    ```bash
-   python football_game.py
+   python bouncing_football.py
    ```
